@@ -1,128 +1,76 @@
 ```markdown
-<h1 align="center">Hi 👋, I'm Priyanga B</h1>
+## 👩‍💻 About Me
 
-<h3 align="center">
-Software Developer • UI/UX Designer • Java Developer • AI Enthusiast
-</h3>
-
-<p align="center">
-Building intelligent applications and crafting intuitive digital experiences.
-</p>
-
-<p align="center">
-  <a href="mailto:priyangabaskaran2127@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priyanga-b-065193316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 🎓 Software Engineering Student
+- 💻 Passionate about Software Development, Java, and AI-powered Applications
+- 🎨 UI/UX Designer focused on creating intuitive and user-centered digital experiences
+- 🚀 Building Full-Stack Applications and AI-assisted solutions
+- 🌱 Currently learning Full-Stack Development, Spring Boot, Machine Learning, and Cloud Technologies
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
-# 👩‍💻 About Me
+# 💻 Tech Stack
 
-- 💻 Passionate about **Software Development, Artificial Intelligence, and UI/UX Design**
-- 🎨 Love designing **clean, modern, and user-friendly digital experiences**
-- 🌱 Currently learning **Full-Stack Development, Spring Boot, Machine Learning, and Cloud Computing**
-- 🚀 Building real-world applications that combine technology with great user experiences
-- 🤝 Open to **Internships, Collaborations, and Open-Source Contributions**
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python"/>
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-### 🎨 UI/UX Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma"/>
-  <img src="https://img.shields.io/badge/Pixso-4B6BFB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
-**Skills**
-
-- Wireframing
-- Prototyping
-- User Flow
-- Responsive Design
-
-### 🛠️ Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github"/>
-</p>
-
-### 🤖 AI Tools
-
-- ChatGPT
-- Google AI Studio
-- Google Stitch
-- Canva AI
+| **Category** | **Technologies** |
+| :--- | :--- |
+| 👨‍💻 **Languages** | Java • Python • HTML • CSS |
+| 🎨 **UI/UX Design** | Figma • Pixso • Canva • Google Stitch |
+| 🛠️ **Development Tools** | Git • GitHub • VS Code • IntelliJ IDEA |
+| 🤖 **AI Tools** | ChatGPT • Google AI Studio • Canva AI • Google Stitch |
+| 🎯 **Design Skills** | Wireframing • Prototyping • User Flow • Responsive Design |
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 AI-Powered PR Review Agent
 
-> An AI-powered GitHub Pull Request Review platform that automates code reviews using Machine Learning and Large Language Models (LLMs), providing intelligent code analysis, issue detection, and improvement suggestions.
+An AI-powered GitHub Pull Request Review platform that automates code reviews using Machine Learning and Large Language Models (LLMs). The system provides intelligent code analysis, issue detection, fix recommendations, and review analytics.
 
 **Tech Stack**
 
-`Python` `Flask` `SQLite` `Scikit-learn` `Groq API`
+Python • Flask • SQLite • Scikit-learn • Groq API
 
 ---
 
 ### 🏫 OpenSlot Web – Smart Classroom Finder
 
-> A full-stack web application that helps students locate available classrooms in real time through smart timetable management and responsive search features.
+A full-stack web application that helps students locate available classrooms in real time through smart timetable management and dynamic room discovery.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Python`
+HTML • CSS • JavaScript • Python
 
 ---
 
 ### 🩺 Consultify – Online Doctor Consultation (UI/UX)
 
-> A modern healthcare application prototype that enables users to book appointments, consult doctors online, and manage healthcare services through an intuitive user experience.
+A modern healthcare platform prototype that enables users to book appointments, consult doctors online, and manage healthcare services through an intuitive interface.
 
 **Tools**
 
-`Figma`
+Figma • Wireframing • Prototyping
 
 ---
 
 ### 💸 Expense Tracker – Mobile UI/UX
 
-> A modern mobile expense tracker designed using **Google Stitch**, helping users manage expenses, monitor spending, and visualize financial insights through a clean and intuitive interface.
+A modern mobile Expense Tracker designed using Google Stitch that helps users manage expenses, monitor spending, and visualize financial insights through a clean and intuitive interface.
 
 **Tools**
 
-`Google Stitch` `UI Design` `UX Design` `Prototyping`
+Google Stitch • UI Design • UX Design • Prototyping
 
 ---
 
 ### 💼 GigFlow – Freelance Marketplace (UI/UX)
 
-> A modern freelance marketplace platform designed to connect freelancers and clients through an intuitive user experience, streamlined communication, and efficient project management.
+A modern freelance marketplace website UI/UX designed to connect freelancers with clients through a clean and intuitive platform. The project focuses on improving usability, communication, and project management.
 
 **Tools**
 
-`Figma` `Google Stitch` `Wireframing` `Prototyping`
+Figma • Google Stitch • Wireframing • Prototyping
 
 🚧 **Status:** *Work in Progress*
 
@@ -130,35 +78,42 @@ Building intelligent applications and crafting intuitive digital experiences.
 
 # 🌱 Currently Learning
 
-- Full-Stack Development
-- Spring Boot
-- Machine Learning
-- Cloud Computing
-- Advanced UI/UX Design
+- ☕ Advanced Java
+- 🌐 Full-Stack Development
+- 🌱 Spring Boot
+- 🤖 Machine Learning
+- ☁️ Cloud Computing
+- 🎨 Advanced UI/UX Design
+
+---
+
+# 🎯 Career Goals
+
+- 🚀 Build impactful AI-powered and Full-Stack applications
+- 🎨 Create intuitive and user-centered digital experiences
+- 🌍 Contribute to Open Source
+- 📚 Continuously improve software development and UI/UX skills
+- 💡 Learn and implement emerging technologies
 
 ---
 
 # 💡 Soft Skills
 
-✨ Problem Solving • Creativity • Teamwork • Communication • Adaptability • Time Management
+✨ Problem Solving • Creativity • Team Collaboration • Communication • Adaptability • Time Management
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-📧 **Email**  
-<a href="mailto:priyangabaskaran2127@gmail.com">priyangabaskaran2127@gmail.com</a>
+📧 **Email**
 
-💼 **LinkedIn**  
-<a href="https://www.linkedin.com/in/priyanga-b-065193316">linkedin.com/in/priyanga-b-065193316</a>
+**priyangabaskaran2127@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/priyanga-b-065193316
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my GitHub Profile! ✨
-</h3>
-
-<p align="center">
-<i>"Design with empathy. Build with purpose. Learn continuously."</i>
-</p>
+> *"Design meaningful experiences. Build impactful solutions. Never stop learning."* ✨
 ```
