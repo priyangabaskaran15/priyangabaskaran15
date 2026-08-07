@@ -1,119 +1,119 @@
-```markdown
-## 👩‍💻 About Me
+# Hi, I'm Priyanga B 👋
 
-- 🎓 Software Engineering Student
-- 💻 Passionate about Software Development, Java, and AI-powered Applications
-- 🎨 UI/UX Designer focused on creating intuitive and user-centered digital experiences
-- 🚀 Building Full-Stack Applications and AI-assisted solutions
-- 🌱 Currently learning Full-Stack Development, Spring Boot, Machine Learning, and Cloud Technologies
-- 🤝 Open to internships, collaborations, and open-source contributions
+### Software Developer | UI/UX Designer | Java Developer | AI Enthusiast
+
+## I'm a passionate Software Engineering student with a strong interest in software development, artificial intelligence, and UI/UX design. I enjoy building intelligent applications, designing user-centered interfaces, and solving real-world problems through technology. I'm continuously expanding my skills and enjoy collaborating on innovative projects that create meaningful impact.
+
+## 🚀 About Me
+
+💻 Passionate about Software Development, AI, and UI/UX Design
+🎨 Enjoy creating intuitive, accessible, and user-friendly digital experiences
+🌱 Currently learning Full-Stack Development, Designing and Development with Artificial Intelligence
+🤝 Open to internships, collaborations, and open-source contributions
+📚 Always eager to learn new technologies and improve my development skills
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+- Java
+- Python(Basics)
+
+### 🌐 Web Technologies
+
+- HTML
+- CSS
+
+### 🎨 UI/UX Design
+
+- Figma
+- Pixso
+- Canva
+- Wireframing
+- Prototyping
+- User Flow
+- Responsive Design
+-
+
+### 🛠 Development Tools
+
+- Visual Studio Code
+- IntelliJ IDEA
+- Git & GitHub
+
+### 🤖 AI Tools
+
+- ChatGPT
+- Google AI Tools
+- Canva AI
+- Google Stitch (AI-assisted UI Design & Development)
 
 ---
 
-# 💻 Tech Stack
+# 📌 Featured Projects
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| 👨‍💻 **Languages** | Java • Python • HTML • CSS |
-| 🎨 **UI/UX Design** | Figma • Pixso • Canva • Google Stitch |
-| 🛠️ **Development Tools** | Git • GitHub • VS Code • IntelliJ IDEA |
-| 🤖 **AI Tools** | ChatGPT • Google AI Studio • Canva AI • Google Stitch |
-| 🎯 **Design Skills** | Wireframing • Prototyping • User Flow • Responsive Design |
+## 🤖 AI-Powered PR Review Agent
 
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI-Powered PR Review Agent
-
-An AI-powered GitHub Pull Request Review platform that automates code reviews using Machine Learning and Large Language Models (LLMs). The system provides intelligent code analysis, issue detection, fix recommendations, and review analytics.
-
+An AI-powered GitHub Pull Request Review platform that automates code reviews and improves software quality through intelligent analysis.
 **Tech Stack**
 
-Python • Flask • SQLite • Scikit-learn • Groq API
+`Python` `Flask` `SQLite` `Scikit-learn` `Groq API`
 
 ---
 
-### 🏫 OpenSlot Web – Smart Classroom Finder
+## 🏫 OpenSlot Web – Smart Classroom Finder
 
-A full-stack web application that helps students locate available classrooms in real time through smart timetable management and dynamic room discovery.
-
+A full-stack web application designed to optimize classroom utilization by helping students locate available study spaces in real time.
 **Tech Stack**
-
-HTML • CSS • JavaScript • Python
+`HTML` `CSS` `JavaScript` `Python`
 
 ---
 
-### 🩺 Consultify – Online Doctor Consultation (UI/UX)
+## 🩺 Consultify – Online Doctor Consultation (UI/UX)
 
-A modern healthcare platform prototype that enables users to book appointments, consult doctors online, and manage healthcare services through an intuitive interface.
+A UI/UX prototype for an online healthcare platform that enables users to book appointments, consult doctors virtually, and manage healthcare services through a clean and intuitive user experience.
+
+### Design Process
+
+- User Research
+- Wireframing
+- High-Fidelity UI Design
+- Interactive Prototyping
+
+**Tools**
+`Figma`
+
+---
+
+## 💸 Expense Tracker – Mobile UI/UX
+
+A modern mobile Expense Tracker application designed using **Google Stitch**. The interface enables users to manage personal finances efficiently through a clean, intuitive, and user-friendly experience.
 
 **Tools**
 
-Figma • Wireframing • Prototyping
+`Google Stitch` `UI Design` `UX Design` `Prototyping`
 
 ---
 
-### 💸 Expense Tracker – Mobile UI/UX
+## 💼 GigFlow – Freelance Marketplace (UI/UX)
 
-A modern mobile Expense Tracker designed using Google Stitch that helps users manage expenses, monitor spending, and visualize financial insights through a clean and intuitive interface.
+GigFlow is a modern freelance marketplace website designed to connect freelancers and clients through an intuitive, responsive, and user-friendly platform. The project focuses on enhancing usability, communication, and project management.
 
 **Tools**
 
-Google Stitch • UI Design • UX Design • Prototyping
+`Figma` `Google Stitch` `Wireframing` `Prototyping` `UI Design` `UX Design`
+
+## 🚧 **Status:** *Work in Progress*
+
+## 📫 Connect With Me
+
+📧 Email:\*\* [priyangabaskaran2127@gmail.com](mailto\:priyangabaskaran2127@gmail.com)
+
+💼 **LinkedIn:**
+**[https://www.linkedin.com/in/priyanga-b-065193316](https://www.linkedin.com/in/priyanga-b-065193316)**
 
 ---
 
-### 💼 GigFlow – Freelance Marketplace (UI/UX)
+⭐ **Thank you for visiting my GitHub profile!**
 
-A modern freelance marketplace website UI/UX designed to connect freelancers with clients through a clean and intuitive platform. The project focuses on improving usability, communication, and project management.
-
-**Tools**
-
-Figma • Google Stitch • Wireframing • Prototyping
-
-🚧 **Status:** *Work in Progress*
-
----
-
-# 🌱 Currently Learning
-
-- ☕ Advanced Java
-- 🌐 Full-Stack Development
-- 🌱 Spring Boot
-- 🤖 Machine Learning
-- ☁️ Cloud Computing
-- 🎨 Advanced UI/UX Design
-
----
-
-# 🎯 Career Goals
-
-- 🚀 Build impactful AI-powered and Full-Stack applications
-- 🎨 Create intuitive and user-centered digital experiences
-- 🌍 Contribute to Open Source
-- 📚 Continuously improve software development and UI/UX skills
-- 💡 Learn and implement emerging technologies
-
----
-
-# 💡 Soft Skills
-
-✨ Problem Solving • Creativity • Team Collaboration • Communication • Adaptability • Time Management
-
----
-
-# 🌐 Connect With Me
-
-📧 **Email**
-
-**priyangabaskaran2127@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/priyanga-b-065193316
-
----
-
-> *"Design meaningful experiences. Build impactful solutions. Never stop learning."* ✨
-```
+I’m passionate about building innovative software, designing intuitive user experiences, and continuously learning new technologies. Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 
