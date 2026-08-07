@@ -2,7 +2,7 @@
 
 ### Software Developer | UI/UX Designer | Java Developer | AI Enthusiast
 
-## I'm a passionate Software Engineering student with a strong interest in software development, artificial intelligence, and UI/UX design. I enjoy building intelligent applications, designing user-centered interfaces, and solving real-world problems through technology. I'm continuously expanding my skills and enjoy collaborating on innovative projects that create meaningful impact.
+I'm a passionate Software Engineering student with a strong interest in software development, artificial intelligence, and UI/UX design. I enjoy building intelligent applications, designing user-centered interfaces, and solving real-world problems through technology. I'm continuously expanding my skills and enjoy collaborating on innovative projects that create meaningful impact.
 
 ## 🚀 About Me
 
