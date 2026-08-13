@@ -63,9 +63,14 @@ An AI-powered GitHub Pull Request Review platform that automates code reviews an
 
 ## 🏫 OpenSlot Web – Smart Classroom Finder
 
-A full-stack web application designed to optimize classroom utilization by helping students locate available study spaces in real time.
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `Python`
+OpenSlot is a full-stack web application that helps students find free classrooms in real time, pre-book them for a specific time slot, and lets admins manage the weekly class timetable — solving the everyday problem of wandering campus halls looking for an empty room
+## 🛠️ Tech Stack
+
+**Frontend:** HTML5, CSS3, Jinja2, JavaScript
+
+**Backend:** Python, FastAPI, Pydantic, JWT, Bcrypt, Pytest
+
+**Database:** SQLite, SQLAlchemy
 
 ---
 
