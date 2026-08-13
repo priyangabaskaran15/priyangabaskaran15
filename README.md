@@ -112,7 +112,7 @@ GigFlow is a modern freelance marketplace website designed to connect freelancer
 
 ## 📫 Connect With Me
 
-📧 Email:\*\* [priyangabaskaran2127@gmail.com](mailto\:priyangabaskaran2127@gmail.com)
+📧 Email: [priyangabaskaran2127@gmail.com](mailto\:priyangabaskaran2127@gmail.com)
 
 💼 **LinkedIn:**
 **[https://www.linkedin.com/in/priyanga-b-065193316](https://www.linkedin.com/in/priyanga-b-065193316)**
