@@ -33,7 +33,6 @@ I'm a passionate Software Engineering student with a strong interest in software
 - Prototyping
 - User Flow
 - Responsive Design
--
 
 ### 🛠 Development Tools
 
@@ -47,7 +46,6 @@ I'm a passionate Software Engineering student with a strong interest in software
 - Google AI Tools
 - Canva AI
 - Google Stitch (AI-assisted UI Design & Development)
-
 ---
 
 # 📌 Featured Projects
